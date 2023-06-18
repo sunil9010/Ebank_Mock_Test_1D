@@ -1,0 +1,41 @@
+.home {
+  background-color: #152850;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.btn {
+  border: none;
+  cursor: pointer;
+  color: #f8fafc;
+  border: 1px solid #f8fafc;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: #152850;
+}
+.logo {
+  height: 50px;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 90%;
+  padding-top: 20px;
+}
+.response {
+  display: flex;
+  justify-content: center;
+}
+.head {
+  color: #ffffff;
+}
+.card {
+  height: 250px;
+  width: 450px;
+}
+.cards {
+  align-self: center;
+}
